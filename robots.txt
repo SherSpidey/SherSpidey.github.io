@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://SherSpidey.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://sherspidey.github.io/sitemap.xml
