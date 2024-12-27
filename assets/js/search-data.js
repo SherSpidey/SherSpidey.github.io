@@ -79,7 +79,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-image-galleries",
+            },{id: "post-ubuntu常用配置",
+      
+        title: "Ubuntu常用配置",
+      
+      description: "个人常用Ubuntu配置",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/Ubuntu%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE/";
+        
+      },
+    },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
